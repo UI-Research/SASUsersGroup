@@ -1,0 +1,14 @@
+<!---
+JAK DEC2016
+Description: This file defines the structure of the repository. For now, it is just snippets, but it could also be tasks.
+   Additionally, tasks and snippets could be further organized into subdirectories
+--->
+<?xml version="1.0" encoding="UTF-8"?>
+	<Repository label="Urban Institute SAS Studio Repository" version="1.0">
+ 		<Snippets>
+			<Category label="Urban SAS Macro Library">
+				<Location uri="snippets.xml" />
+				<!--- Location uri="./SUBDIR/snippets.xml" /> --->
+			</Category>
+		</Snippets>
+</Repository>

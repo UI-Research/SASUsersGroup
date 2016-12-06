@@ -19,7 +19,7 @@
 
 # Raw files
 *.csv
-*.xml
+
 
 # Image files
 *.gif

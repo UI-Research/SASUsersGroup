@@ -1,0 +1,12 @@
+<!--- 
+JAK DEC2016
+Description: This file contains label and location of each sas file to be treated as a snippet
+--->
+<?xml version="1.0" encoding="UTF-8"?>
+<Snippets>
+	<Snippet>
+		<Name label="Adjust count totals"/>
+		<Template uri="Adjust_count_totals.sas"/>
+		<!--- Template uri = "./needle.sas"> --->
+	</Snippet>
+</Snippets>
